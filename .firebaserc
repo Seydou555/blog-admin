@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ang-blog-8d745": {
+      "hosting": {
+        "ang-blog-dasboard": [
+          "ang-blog-8d745"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ang-blog-8d745"
+  }
+}
